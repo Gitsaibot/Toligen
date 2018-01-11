@@ -1,5 +1,5 @@
 # Toligen
-Mit Toligen lassen sich Wörterbuchdateien von dictcc oder tu-chemnitz ins quickdic Format umwandeln sodass sie auf den Tolino Readern genutzt werden können. Es ist ein Fork von https://github.com/rdoeffinger/DictionaryPC/ mit der Ausrichtung auf das alte Tolino Wörterbuchformat.
+Mit Toligen lassen sich Wörterbuchdateien von dictcc(https://www1.dict.cc/translation_file_request.php) oder tu-chemnitz(http://ftp.tu-chemnitz.de/pub/Local/urz/ding/de-en-devel/) ins quickdic Format umwandeln sodass sie auf den Tolino Readern genutzt werden können. Es ist ein Fork von https://github.com/rdoeffinger/DictionaryPC/ mit der Ausrichtung auf das alte Tolino Wörterbuchformat.
 
 Vorgehensweise(getestet mit Debian 9 stable):
 
